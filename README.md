@@ -13,7 +13,7 @@ This project emulates a commonly used Network Shaper known as the Token Bucket F
   - Predictable thread cancellation is used by allowing the threads to stop at specific cancellation points. 
 - The emulation statistics are presented to the user at the end of the simulation.
 
-> Further details of the project are available on [request](https://github.com/swanav/cs402-project-fall-23/issues/new).
+> Further details of the project are available on [request](https://github.com/swanav/cs402-project-fall-23/issues/new/choose).
 
 ## The Weenix Kernel
 
