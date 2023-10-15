@@ -1,5 +1,7 @@
 # CS402 - Operating Systems
 
+**Fall 23** - *Prof. William Cheng*
+
 Concurrency, deadlock control, synchronization, process and thread scheduling, memory management, file systems, security and access control, communication and networking, distributed file systems, data management.
 
 > The specs and implementation of projects in this course are private. While I can publicily describe the projects in the later sections, the implementations are private. Although, they can be shared privately for anyone who wishes to see the implementation and understand the scope of my work. 
@@ -19,4 +21,4 @@ This project emulates a commonly used Network Shaper known as the Token Bucket F
 
 ### Process Management - (Processes, Kernel Threads, Scheduler, Mutex)
 
-
+> Work ongoing on this project.
